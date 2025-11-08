@@ -4,6 +4,7 @@
   <img src="/images/app-img.gif" alt="pluely banner" width="100%" />
 </a>
 
+tigger build
 ---
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-blue)](https://github.com/iamsrikanthnani/pluely)
